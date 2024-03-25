@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=F05032"/></a>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karennn-Y&theme=nightowl&show_icons=true)
-  
+![Karennn-Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karennn-Y&theme=nightowl&show_icons=true)
+
+![snake gif](https://github.com/Karennn-Y/Karennn-Y/blob/output/github-contribution-grid-snake.svg)
 </div>
