@@ -42,5 +42,7 @@
 <br>
 ![Karennn-Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karennn-Y&theme=nightowl&show_icons=true)
 
-![snake gif](https://github.com/Karennn-Y/Karennn-Y/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
+<img src="https://github.com/Karennn-Y/Karennn-Y/blob/output/github-contribution-grid-snake.svg"/>
